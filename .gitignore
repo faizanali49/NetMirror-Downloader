@@ -1,0 +1,16 @@
+# Python cache
+backend/**/__pycache__/
+*.pyc
+
+# Environment
+.env
+venv/
+.venv/
+
+# installer-files
+installer-files/**/_internal
+installer-files/**/*.exe
+
+
+# Installer output
+output/
