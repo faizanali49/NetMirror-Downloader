@@ -1,4 +1,3 @@
-# NetMirror Pro Downloader
 
 Captures HLS streams from JW Player sites and downloads them as merged MP4 files using FFmpeg.
 
@@ -45,17 +44,17 @@ Before you start, install these on your machine:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/12e31356-26c3-409f-8a11-376286eb9c83" alt="NetMirror Downloader" width="30%" />
+  <img src="https://github.com/user-attachments/assets/63b2ff7f-9d86-4771-b0d1-842d3df119e7" alt="NetMirror Downloader" width="30%" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/e0474478-910c-4afd-8ec5-640900eb253e" alt="Video Downloads with Audio" width="30%" />
+  <img src="https://github.com/user-attachments/assets/3154808b-3a43-44dd-9ff1-c541bbe6b1bd" alt="Video Downloads with Audio" width="30%" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/18a82388-bd0f-4760-9741-4840f17724f1" alt="Network Stream Support" width="30%" />
+  <img src="https://github.com/user-attachments/assets/39e6b957-20bf-41b0-b8c8-9a9869ec9a65" alt="Network Stream Support" width="30%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/57bc7cc9-de74-486b-ba1e-72ec19544efb" alt="NetMirror Downloader Preview" width="95%" />
+  <img src="https://github.com/user-attachments/assets/8a90c4b9-61ae-4fb0-a492-f3cea18ca563" alt="NetMirror Downloader Preview" width="95%" />
 </p>
 
 
