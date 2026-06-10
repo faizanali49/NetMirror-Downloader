@@ -1,5 +1,7 @@
+# NetMirror Downloader Extension
 
-Captures HLS streams from JW Player sites and downloads them as merged MP4 files using FFmpeg.
+Captures HLS streams from JW Player sites like Netmirror and downloads them as merged MP4 files using FFmpeg. So you can download free movies and videos.
+Here is NetMirror link: https://net11.cc/home
 
 **Developed by [Faizan Ali](https://github.com/faizanali49)**
 
